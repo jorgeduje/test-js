@@ -1,0 +1,13 @@
+{
+  "productos": [
+    {
+      "title": "telefono",
+      "price": 200
+    }
+  ],
+  "users": [
+    {
+      "name": "pepe"
+    }
+  ]
+}
